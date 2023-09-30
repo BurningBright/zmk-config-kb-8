@@ -1,0 +1,10 @@
+file_format: "1"
+id: kb-8
+name: kb-8
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
